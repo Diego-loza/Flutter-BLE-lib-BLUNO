@@ -6,7 +6,7 @@ Proyecto realizado para comunicar de manera sencilla un BLUNO con una app en Flu
 
 ### Flutter:
 Flutter 2.8.1 • channel unknown • unknown source
-Framework • revision 77d935af4d (8 months ago) • 2021-12-16 08:37:33 -0800
+Framework • revision 77d935af4d
 Engine • revision 890a5fca2e
 Tools • Dart 2.15.1
 
