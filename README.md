@@ -13,13 +13,11 @@ Tools • Dart 2.15.1
 ### Android:
 SDK Platforms
 | Name                                    | API Level | Revision |
-| :---:                                   | :---:     | :---:    |
 | Android SDK Platform 30                 | 30        | 3        |
 | Google APIs Intel x86 Atom System Image | 29        | 12       |
 
 SDK Tools
 | Name                                    | Version |
-| :---:                                   | :---:   |
 | Android SDK Build-Tools 33              | 31.0.0  |
 | Android SDK Build-Tools 33              | 29.0.2  |
 | Android SDK Command-line Tools          | 5.0     |
