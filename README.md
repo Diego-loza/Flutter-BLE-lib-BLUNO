@@ -5,10 +5,10 @@ Proyecto realizado para comunicar de manera sencilla un BLUNO con una app en Flu
 ## Requerimientos del sistema:
 
 ### Flutter:
-Flutter 2.8.1 • channel unknown • unknown source
-Framework • revision 77d935af4d
-Engine • revision 890a5fca2e
-Tools • Dart 2.15.1
+- Flutter 2.8.1 • channel unknown • unknown source
+- Framework • revision 77d935af4d
+- Engine • revision 890a5fca2e
+- Tools • Dart 2.15.1
 
 ### Android:
 SDK Platforms
