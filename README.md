@@ -15,24 +15,17 @@ SDK Platforms
 | Name                                    | API Level | Revision |
 | :---:                                   | :---:     | :---:    |
 | Android SDK Platform 30                 | 30        | 3        |
-| :---:                                   | :---:     | :---:    |
 | Google APIs Intel x86 Atom System Image | 29        | 12       |
 
 SDK Tools
 | Name                                    | Version |
 | :---:                                   | :---:   |
 | Android SDK Build-Tools 33              | 31.0.0  |
-| :---:                                   | :---:   |
 | Android SDK Build-Tools 33              | 29.0.2  |
-| :---:                                   | :---:   |
 | Android SDK Command-line Tools          | 5.0     |
-| :---:                                   | :---:   |
 | Android Emulator                        | 31.2.10 |
-| :---:                                   | :---:   |
 | Android SDK Platform Tools 31.0.3       | 31.0.3  |
-| :---:                                   | :---:   |
 | Android SDK Tools (Obsolete)            | 26.1.1  |
-| :---:                                   | :---:   |
 | Google USB Driver                       | 13      |
 
 ![Wdevelopers logo](wdevelopers.png)
