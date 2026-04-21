@@ -1,3 +1,4 @@
+![Wdevelopers logo](wdevelopers.png)
 # Flutter-BLE-lib-BLUNO
 ## Descripción:
 Proyecto realizado para comunicar de manera sencilla un BLUNO con una app en Flutter mediante BLE (La version de android y flutter influyen en el funcionamiento del proyecto debido a la libreria de comunicación bluetooth).
@@ -27,8 +28,6 @@ SDK Tools
 | Android SDK Platform Tools 31.0.3       | 31.0.3  |
 | Android SDK Tools (Obsolete)            | 26.1.1  |
 | Google USB Driver                       | 13      |
-
-![Wdevelopers logo](wdevelopers.png)
 
 ## Autores:
 - Diego Lozano
